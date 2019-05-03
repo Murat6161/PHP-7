@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: m.yavuz
- * Date: 03.05.2019
- * Time: 11:15
- */
+
 
 $name = "Jan";
 $name2= $name;
