@@ -1,0 +1,18 @@
+//
+// IST
+Iim Betrieb werden immer wieder Praktikanten beschäftigt. Die müssen
+in einer Software erfasst werden.
+
+//
+// SOLL
+Schaff eine Klasse mit der Praktikanten im Computer verwaltet werde können.
+
+Es sollen speziell alle relevanten Daten erfasst werden können:
+
+*   Name
+*   Geburtsdatum
+*   Dauer des Praktikums ( in Tagen )
+*   Abteilung
+*   Betreuende Person
+*   Ansprechpartner in der Schule
+*   Schule
