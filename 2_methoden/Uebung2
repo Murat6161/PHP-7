@@ -1,0 +1,20 @@
+// IST
+
+Der lokale Tretbootverleih hat in den Sommermonaten viel zu tun.
+Regelmäßig sind die Aushilfen zu den Stoßzeiten überlastet. Eine der schwierigsten Aufgaben
+ist es im Blick zu behalten, welches Boot wie lang unterwegs war.
+
+Bisher wurde Uhrzeit der Abfahrt zusammen mit Namen und Bootsnummer auf einem Zettel notiert. Abrechnung
+erfolgte auf Zuruf. Bei großem Andrang muss erst der Zettel gesucht und die verbrauchte Zeit errechnet werden.
+
+
+// SOLL
+Die neue Lösung soll jeden Verleih erfassen:
+
+- Uhrzeit
+- Bootsnummer
+- Name der Person
+
+Schaffe ein oder mehrere geeignete(n) Klasse(n), über
+die dies abgebildet werden kann. Die Speicherung der Daten ist nicht
+notwendig. Es kann auch mit Dummywerten gearbeitet werden.
