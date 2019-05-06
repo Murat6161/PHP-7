@@ -39,7 +39,8 @@ class Bootsverleih {
 
         echo "Rückgabe:<br>";
         echo "- Dauer: $dauer Stunden<br>";
-        echo "- Kosten: $kosten EUR";
+        echo "- Kosten: $kosten EUR <br>";
+        print_r(ausleihe);
     }
 }
 

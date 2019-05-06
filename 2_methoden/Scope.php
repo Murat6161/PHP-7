@@ -1,6 +1,6 @@
 <?php
 
-
+// Gültigkeitsbereiche der Klassen Methoden Eigenschaften usw.. , (nur class z.b. oder private..)
 
 class Scope {
 
