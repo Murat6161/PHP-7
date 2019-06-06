@@ -1,0 +1,33 @@
+// Aufgabe3
+
+Erschaffe eine Klassenstruktur, mit der Mediengeräte
+abgebildet werden können. Konkrete Ausprägungen sind
+Fernseher und iPod.
+
+Alle Mediengeräte sollen folgende Funktionen/Eigenschaften haben:
+* Lautstärke (min. 0, max. 100)
+* Lauter/Leiser
+* Ton aus/Ton an (mute)
+
+Fernseher haben zusätzlich:
+* den aktuellen Kanal (Nummer)
+* die Möglichkeit kanalPlus/kanalMinus zu verwenden
+* es gibt 100 verschiedene Sender
+  (keine Textliste notwendig, aber Limits beim Umschalten)
+* einen bestimmten Kanal zu Beginn
+
+iPods haben:
+* eine Playliste mit Titeln (z.B. ein Array aus Strings)
+* die Playlist wird dem Objekt beim Erzeugen übergeben
+* der aktuelle Titel
+* spielt gerade Musik (ja/nein)
+* play/pause
+* nächster/vorheriger Titel
+
+Insgesamt soll natürlich auf Datenkapselung geachtet werden. Ziel ist auch
+eine passende Strategie für die Vererbung zu finden. Ansonsten können
+objektorientierte Konzepte aus dieser Sektion verwendet werden.
+
+
+
+
